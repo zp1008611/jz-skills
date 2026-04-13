@@ -1,6 +1,6 @@
 # jz-skills
 
-本项目用于开发和管理 Claude Code 的 skill 文件。
+本项目用于开发和管理 jz  的 skill 文件。
 
 ## 开发流程
 
